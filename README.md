@@ -1,6 +1,8 @@
 # The-Games
 The games made in game jam
 
+游戏介绍请参考各仓库Readme
+
 2019年Ciga Game Jam作品: [Love Letter](https://prinnyandhisfriends.github.io/LoveLetter/)
 
 2019年杭州象山艺术公社Game Jam作品: [Dimension](https://prinnyandhisfriends.github.io/Dimension/)
