@@ -3,6 +3,8 @@ The games in game jam
 
 游戏介绍请参考各仓库Readme
 
+2018.12-2019.7 合作开发的独立游戏 [BattleFieldCell](https://prinnyandhisfriends.github.io/BattleFieldCell/)
+
 2019年心动网络独立营作品：[Keiko-Gino](https://prinnyandhisfriends.github.io/Keiko-Gino/)
 
 2019年Ciga Game Jam作品: [Love Letter](https://prinnyandhisfriends.github.io/LoveLetter/)
