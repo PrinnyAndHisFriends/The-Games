@@ -3,7 +3,11 @@ The games in game jam
 
 游戏介绍请参考各仓库Readme
 
-2018.12-2019.7 合作开发的独立游戏 [BattleFieldCell](https://prinnyandhisfriends.github.io/BattleFieldCell/)
+2018.6-2020 合作开发的独立游戏 [Rustle](https://www.taptap.com/app/177916)
+
+2020年GGJ独立作品 [沙雕](https://prinnyandhisfriends.github.io/SandSculpture/)
+
+2018.12-2020.7 合作开发的独立游戏 [BattleFieldCell](https://prinnyandhisfriends.github.io/BattleFieldCell/)
 
 2019年心动网络独立营作品：[Keiko-Gino](https://prinnyandhisfriends.github.io/Keiko-Gino/)
 
