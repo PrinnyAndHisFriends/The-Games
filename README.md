@@ -1,5 +1,4 @@
-# The-Games
-The games in game jam
+# The Games
 
 游戏介绍请参考各仓库Readme
 
