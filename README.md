@@ -2,7 +2,7 @@
 
 游戏介绍请参考各仓库Readme
 
-2020 中国美术学院上海设计学院游戏艺术设计专业毕业作品 [光之界》](https://www.bilibili.com/video/BV16z4y1Q7ZS?from=search&seid=10751715640529717733)
+2020 中国美术学院上海设计学院游戏艺术设计专业毕业作品 [光之界](https://www.bilibili.com/video/BV16z4y1Q7ZS?from=search&seid=10751715640529717733)
 
 2018.6-2020 合作开发的独立游戏 [Rustle](https://www.taptap.com/app/177916)
 
